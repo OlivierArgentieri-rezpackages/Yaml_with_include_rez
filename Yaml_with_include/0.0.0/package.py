@@ -1,4 +1,4 @@
-name = "yaml_include"
+name = "yaml_with_include"
 version = "0.0.0"
 build_command = False
 
